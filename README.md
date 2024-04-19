@@ -1,14 +1,7 @@
 # Fyle Backend Challenge
 
-
-## Challenge outline
-
 This challenge involves writing a backend service for a classroom. The challenge is described in detail [here](./Application.md)
-
-
-
 ### Install requirements
-
 ```
 virtualenv env --python=python3.8
 source env/bin/activate
